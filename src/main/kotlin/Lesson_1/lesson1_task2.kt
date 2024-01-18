@@ -17,19 +17,4 @@ fun main() {
 
     println(numberOfEmployees)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
