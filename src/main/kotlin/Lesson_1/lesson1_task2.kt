@@ -1,7 +1,7 @@
 fun main() {
     val allOrders: Int = 75
     val thxForPurchase: String = ("Благодарим за покупку!")
-    val thxForPurNext: String = ("  Ждем Вас снова =)")
+    val thxForPurNext: String = (" Ждем Вас снова =)")
     println(allOrders)
     println(thxForPurchase)
     println(thxForPurNext)
