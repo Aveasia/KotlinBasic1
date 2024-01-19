@@ -1,4 +1,3 @@
-import java.time.Year
 
 fun main(){
     val yearTakeoffJG: Short = 1961
